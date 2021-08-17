@@ -1,3 +1,10 @@
+/**
+ * Created by saimhafeez|MrHacktivist.
+ * Visit saimhafeez.com for more tutorials
+ * Explanation of This Jepack Compose Template Given Below
+ * https://saimhafeez.com/android-section/jetpack-compose/image-box-with-title-and-author-box-jetpack-compose-ui/
+ */
+
 @Composable
 fun Image_Card(
     /* Parameters */

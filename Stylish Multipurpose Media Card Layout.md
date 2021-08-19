@@ -4,7 +4,9 @@
 
 ### Visit [saimhafeez.com](www.saimhafeez.com) for more Tutorials
 
-### Visit [Here](https://saimhafeez.com/android-section/jetpack-compose/stylish-multipurpose-card-jetpack-compose/)
+### Visit [Here](https://saimhafeez.com/android-section/jetpack-compose/stylish-multipurpose-card-jetpack-compose/) for Explanation of this Compose layout.
+
+# Complete Code Given Below
 
 ```java
 @Composable
